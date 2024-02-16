@@ -9,6 +9,7 @@ import { UserInterface } from './models/user.model';
 })
 export class AppComponent {
   title = 'angularClient';
+  userData?: UserInterface;
 
   constructor(private dataService: DataService) {}
 
@@ -22,6 +23,7 @@ export class AppComponent {
     this.dataService.getData()
     .subscribe({
       next: (data: UserInterface) => {
+        this.userData = data;
         console.log(data);
       },
       error: () => {
