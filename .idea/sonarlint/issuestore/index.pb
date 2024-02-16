@@ -1,0 +1,21 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+_
+/crud_demo/.mvn/wrapper/maven-wrapper.properties,f\6\f68dd7d935873c45058aeb0293bc378273821289
+A
+crud_demo/pom.xml,6\1\61d9d2f6e31ce9f54556ccde057f58f345db2907
+`
+0crud_demo/angularClient/src/app/app.constants.ts,6\3\63a6231abf16d083dcd9d40e81a93ee350142f6a
+]
+-crud_demo/angularClient/src/app/app.config.ts,f\4\f4c4bd20127db44cf93295420d7b33a5b75fb4f0
+s
+Ccrud_demo/src/main/java/com/main/crud_demo/CrudDemoApplication.java,f\8\f80a65d34a097cf1d8e254969e973d571ed1d727
+]
+-crud_demo/angularClient/src/app/app.routes.ts,2\4\246fb13e18dfc377e75b93edfb5206f96bb9b8ae
+Z
+*crud_demo/angularClient/src/main.server.ts,0\5\05f4b30d608e262e9ebebcd3157e100539802806
+S
+#crud_demo/angularClient/src/main.ts,d\a\dac289c1542b02b5e34d7f37ddadc2280c0fe465
+d
+4crud_demo/angularClient/src/app/app.config.server.ts,6\7\67e16631b9da069ee59629241ab01bee9de7ac94
